@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWord_Server", "NumberToWord_Server\NumberToWord_Server.csproj", "{164827A4-D727-402B-BE36-41918F7E4654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWord_Host", "NumberToWord_Host\NumberToWord_Host.csproj", "{8B621018-5377-487E-ADDB-DE6CDB400022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164827A4-D727-402B-BE36-41918F7E4654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164827A4-D727-402B-BE36-41918F7E4654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164827A4-D727-402B-BE36-41918F7E4654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164827A4-D727-402B-BE36-41918F7E4654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B621018-5377-487E-ADDB-DE6CDB400022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B621018-5377-487E-ADDB-DE6CDB400022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B621018-5377-487E-ADDB-DE6CDB400022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B621018-5377-487E-ADDB-DE6CDB400022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17973A98-B4B3-4E94-A68C-3F3D3A7180A3}
+	EndGlobalSection
+EndGlobal
