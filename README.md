@@ -1,5 +1,4 @@
 # wcf-numbertowords
-Convert number to words (back-end WCF, front-end WPF)
 
 A program which converts currency (dollars) from numbers into word presentation.
 The maximum number is 999 999 999.
